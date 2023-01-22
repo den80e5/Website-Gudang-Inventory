@@ -1,0 +1,1 @@
+<?php require 'tmpl_perwaktu.php'; ?>
