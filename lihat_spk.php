@@ -67,7 +67,7 @@ $tampilkan_sesuai_spk=$ambil_spk->fetch_assoc();
 
                 <table class="table table-borderless">
                   <h4 class="text-center font-weight-bold">FORM PENGAMBILAN BARANG GUDANG TINTA</h4>
-                  <h4 class="text-center font-weight-bold">PT PRIMA MAKMUR ROTOKEMINDO</h4>
+                  <h4 class="text-center font-weight-bold">PT.DLL</h4>
                   <h5 class="text-center text-danger">TR.<?php echo $tampilkan_sesuai_spk['kode_form']; ?></h5>
                   <tbody class="h5">
                     <tr>
