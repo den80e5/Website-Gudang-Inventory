@@ -63,7 +63,7 @@ $kode_form = sprintf("%04s", $nourut);
   <form method="post">
                 <table class="table table-borderless">
                   <h4 class="text-center font-weight-bold">FORM PENGAMBILAN BARANG GUDANG TINTA</h4>
-                  <h4 class="text-center font-weight-bold">PT PRIMA MAKMUR ROTOKEMINDO</h4>
+                  <h4 class="text-center font-weight-bold">PT.DLL</h4>
                   <h5 class="text-center text-warning">TR.<?php echo $kode_form ?></h5>
                   <tbody>
                     <tr>
