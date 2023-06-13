@@ -59,7 +59,7 @@ $tampilkan_sesuai_waktu=$ambil_spk->fetch_assoc();
                     </tr>
                     <tr>
                       <td colspan="3"></td>
-                      <td class="text-center font-weight-bold h4">PT PRIMA MAKMUR ROTOKEMINDO</td>
+                      <td class="text-center font-weight-bold h4">PT.DLL</td>
                       <td colspan="3"></td>
                     </tr>
                     <tr>
