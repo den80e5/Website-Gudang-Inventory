@@ -29,7 +29,7 @@ date_default_timezone_set('Asia/Jakarta');
               <div class="card-body">
                 <table class="table table-borderless table-sm mb-3">
                   <h5 class="text-center font-weight-bold">FORM PENGAMBILAN BARANG GUDANG TINTA</h5>
-                  <h5 class="text-center font-weight-bold">PT PRIMA MAKMUR ROTOKEMINDO</h5>
+                  <h5 class="text-center font-weight-bold">PT.DLL</h5>
                   <h6 class="text-center">TR.<?php echo $tampilkan_sesuai_spk['kode_form']; ?></h6>
                   <tbody class="h6">
                     <tr>
