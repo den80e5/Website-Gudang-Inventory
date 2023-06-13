@@ -56,7 +56,7 @@ require 'sidebar.php';
   <form method="post">
                 <table class="table table-borderless">
                   <h4 class="text-center font-weight-bold">FORM PENGAMBILAN BARANG GUDANG TINTA</h4>
-                  <h4 class="text-center font-weight-bold">PT PRIMA MAKMUR ROTOKEMINDO</h4>
+                  <h4 class="text-center font-weight-bold">PT.DLL</h4>
                   <tbody>
                     <tr>
                       <td style="width: 150px"><h5 class="mt-2">No Mesin :</h5></td>
